@@ -1,6 +1,4 @@
-# AP-Assignment-2
-
-Console based Flight reservation system
+**#Console based Flight reservation system**
 using following classes:
 1. Customer
 2. Flight
@@ -11,4 +9,4 @@ using following classes:
 
 
 To run, preferable to clone and run in eclipse as a Java application
-# Console-Flight-Reservatoin-System
+
